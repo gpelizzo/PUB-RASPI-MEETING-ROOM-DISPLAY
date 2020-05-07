@@ -1,5 +1,5 @@
 {
-  "name": "raspi_meeting_display",
+  "name": "raspi_meeting_room_display",
   "version": "1.0.0",
   "description": "--- # Install image",
   "main": "CMain.js",
