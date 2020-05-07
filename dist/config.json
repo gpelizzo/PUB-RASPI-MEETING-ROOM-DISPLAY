@@ -1,0 +1,18 @@
+{
+  "logs_path": "/home/pi/raspi-meeting-room-display/logs.log",
+  "log_level": "debug",
+  "meeting_room_name": "<meeting-romm-name>",
+  "meeting_room_id": "<meeting-romm-id>",
+  "company_name": "<company-name>",
+  "tcpip_token": "<tcpip-bearer-token>",
+  "udp_token": "<udp-bearer-token>",
+  "tcp_listening_port": 8081,
+  "udp_listening_port": 8085,
+  "events_server_ip": "127.0.0.1",
+  "events_server_port": 8082,
+  "tcpip_server_token": "<server-bearer-token>",
+  "time_format": "12h",
+  "date_format": "FR",
+  "free_message": "Free",
+  "next_title": "Next:"
+}
