@@ -22,7 +22,7 @@
     "express": "^4.17.1",
     "getmac": "^5.1.0",
     "internal-ip": "^6.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pigpio": "^3.0.0",
     "spi-device": "^3.0.0",
     "winston": "^3.2.1"
